@@ -1,0 +1,5 @@
+# Ignore the dataset zip file
+nlp_getting_started.zip
+
+# Ignore the extracted dataset folder
+nlp_getting_started/
